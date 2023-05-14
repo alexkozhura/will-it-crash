@@ -21,7 +21,7 @@ export default function App() {
 
     return (
       <p>
-        Getting data from NASA right now to check whether something from space
+        Calling NASA right now to check whether something from space
         is going to hit us. One moment…
       </p>
     );
